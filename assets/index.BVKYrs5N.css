@@ -1,0 +1,1 @@
+@keyframes heartExplosion{0%{opacity:1;transform:scale(1) translateY(0)}to{opacity:0;transform:scale(2) translateY(-100px)}}.animate-heart{animation:heartExplosion 1.5s ease-out forwards;position:absolute}.heart-shaped{clip-path:polygon(50% 15%,61% 0,75% 0,90% 10%,100% 25%,100% 40%,95% 55%,85% 65%,70% 80%,50% 95%,30% 80%,15% 65%,5% 55%,0 40%,0 25%,10% 10%,25% 0,39% 0)}
