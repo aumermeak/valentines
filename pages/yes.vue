@@ -7,11 +7,16 @@
         I just want to tell you how much I appreciate you. From our LM, TG, to now Messenger na naks! this is my way of
         showing how badly I have fallen for you na. I wanted to surprise you kaya tiniis ko na wag muna sabihin sayo
         tong ginagawa kong smol project pero ayun HAHAHAHA. If you would ask why do I like you I would say I like you
-        kase you never even once made me feel like I wasn't interesting saka yung mga usapan natin na minsan nauubos na araw araw. 
-        To be honest di pa rin ako makapaniwala na magugustuhan kita basta biglaan nalang and then ayun na head over heels na ako 
-        di rin ako mapananiwala kung bakit tayo nagtagal magkausap now and ayun thankful naman ako for that lagi akong thankful sayo. 
-        I know what I made here is just a simple appreciation and a simple effort but I poured my heart for this because it's all I can do for now. 
-        Happy Valentines Kyle! (ps wag mo ako ighost! eme) I wish you all the best and Goodluck sa acads, lagi mag iingat
+        kase you never even once made me feel like I wasn't interesting saka yung mga usapan natin na minsan nauubos na
+        araw araw.
+        To be honest di pa rin ako makapaniwala na magugustuhan kita basta biglaan nalang and then ayun na head over
+        heels na ako
+        di rin ako mapananiwala kung bakit tayo nagtagal magkausap now and ayun thankful naman ako for that lagi akong
+        thankful sayo.
+        I know what I made here is just a simple appreciation and a simple effort but I poured my heart for this because
+        it's all I can do for now.
+        Happy Valentines Kyle! (ps wag mo ako ighost! eme) I wish you all the best and Goodluck sa acads, lagi mag
+        iingat
         future nurseeee!! 💖💖
       </p>
 
@@ -36,11 +41,16 @@
     </button>
 
     <!-- Manually added images -->
-    <img src="/mik.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition" />
-    <img src="/mik2.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition" />
-    <img src="/mik3.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition" />
-    <img src="/mik4.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition" />
-    <img src="/mik5.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition" />
+    <img src="public/mik.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition"
+      alt="Picture ko" />
+    <img src="public/mik2.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition"
+      alt="Picture ko" />
+    <img src="public/mik3.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition"
+      alt="Picture ko" />
+    <img src="public/mik4.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition"
+      alt="Picture ko" />
+    <img src="public/mik5.jpg" class="w-40 h-40 object-cover rounded-lg shadow-lg transform hover:scale-110 transition"
+      alt="Picture ko" />
 
     <p class="bg-white rounded p-2 text-black">HAHAHAHA PAGBIGYAN MO NA</p>
   </div>

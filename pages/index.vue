@@ -2,7 +2,7 @@
   <div class="relative flex items-center justify-center min-h-screen bg-pink-100 overflow-hidden">
     <div class="bg-white shadow-lg rounded-2xl p-6 text-center max-w-sm">
       <div class="relative">
-        <img class="heart-shaped w-32 h-32 mx-auto border-4 border-pink-400 shadow-md" src="public/kyle.jpg"
+        <img class="heart-shaped w-32 h-32 mx-auto border-4 border-pink-400 shadow-md" src="/kyle.jpg"
           alt="Crush's Profile Picture" />
         <div
           class="absolute -top-2 -right-2 bg-red-500 text-white w-8 h-8 rounded-full flex items-center justify-center text-xl">
